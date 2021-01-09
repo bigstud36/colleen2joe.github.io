@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://colleen2joe.GitHub.io</id>
+    <title>Colleen&apos;s Notes</title>
+    <updated>2021-01-09T10:41:32.561Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://colleen2joe.GitHub.io"/>
+    <link rel="self" href="https://colleen2joe.GitHub.io/atom.xml"/>
+    <subtitle>Hope is a good thing.</subtitle>
+    <logo>https://colleen2joe.GitHub.io/images/avatar.png</logo>
+    <icon>https://colleen2joe.GitHub.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, Colleen&apos;s Notes</rights>
+</feed>
